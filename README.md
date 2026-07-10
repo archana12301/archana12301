@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.canva.com/design/DAHO_I_hTlQ/4dubhefvua3n00uAjuc52w/edit"/>
+<img src="[https://www.canva.com/design/DAHO_I_hTlQ/4dubhefvua3n00uAjuc52w/edit](https://canva.link/5q80c83er1htpf3)"/>
 </p>
 <h1 align="center">Hi 👋, I'm Archana Vaddepally</h1>
 
