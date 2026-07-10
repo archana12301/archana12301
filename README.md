@@ -1,12 +1,13 @@
+<p align="center">
+<img src="https://www.canva.com/design/DAHO_I_hTlQ/4dubhefvua3n00uAjuc52w/edit"/>
+</p>
 <h1 align="center">Hi 👋, I'm Archana Vaddepally</h1>
 
 <h3 align="center">
 Java Full Stack Developer | Spring Boot | React | MySQL
 </h3>
 
-<p align="center">
-<img src="https://www.canva.com/design/DAHO_I_hTlQ/4dubhefvua3n00uAjuc52w/edit"/>
-</p>
+
 ## 👩‍💻 About Me
 
 🎓 B.Tech Graduate passionate about Java Full Stack Development.
