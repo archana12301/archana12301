@@ -5,7 +5,7 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 </h3>
 
 <p align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Always+Learning+New+Technologies](https://www.canva.com/design/DAHO_I_hTlQ/4dubhefvua3n00uAjuc52w/edit)" />
+<img src="https://www.canva.com/design/DAHO_I_hTlQ/4dubhefvua3n00uAjuc52w/edit"/>
 </p>
 ## 👩‍💻 About Me
 
