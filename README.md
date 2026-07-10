@@ -1,5 +1,25 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>🎓 Hi, I'm **Archana Vaddepally**, a B.Tech graduate passionate about **Java Full Stack Development**.<br><br>💻 I'm currently developing a **Human Resource Management System (HRMS)** using **Spring Boot, React.js, MySQL, and JWT Authentication**.<br><br>🌱 I'm continuously expanding my knowledge in **Spring Boot, React.js, REST APIs, Microservices, and Data Structures & Algorithms**.<br><br>🚀 I enjoy designing and building scalable, secure, and user-friendly web applications that solve real-world problems.<br><br>🤝 I'm open to collaborating on **Java Full Stack**, **Spring Boot**, and **React.js** projects.<br><br>💬 Ask me about **Java, Spring Boot, React.js, MySQL, REST APIs, Git, GitHub, and SQL**.<br><br>🎯 My goal is to become a skilled **Java Full Stack Developer** and contribute to innovative software solutions.<br><br>⚡ **Fun Fact:** I love transforming ideas into real-world applications and continuously learning new technologies.
+<h1 align="center">Hi 👋, I'm Archana Vaddepally</h1>
+
+<h3 align="center">
+Java Full Stack Developer | Spring Boot | React | MySQL
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Always+Learning+New+Technologies" />
+</p>
+## 👩‍💻 About Me
+
+🎓 B.Tech Graduate passionate about Java Full Stack Development.
+
+💻 Currently building HRMS using Spring Boot, React, MySQL and JWT.
+
+🌱 Learning Spring Boot, React, Microservices and DSA.
+
+🚀 Love developing scalable web applications.
+
+💬 Ask me about Java, Spring Boot, React, MySQL and REST APIs.
+
+🎯 Goal: Become an excellent Java Full Stack Developer.
 
 
 ## 🌐 Socials:
